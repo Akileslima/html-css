@@ -1,0 +1,13 @@
+@charset "UTF-8";
+
+body {
+
+    background: black url("imagens/espaco.jpg") center center / cover no-repeat fixed;
+}
+
+.caixa {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
